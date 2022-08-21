@@ -50,3 +50,23 @@
 .lightText {
   color: #666;
 }
+
+.blue {
+  color: rgb(0, 119, 255);
+}
+
+.bold600 {
+  font-weight: 600;
+}
+
+.displayFlex {
+  display: flex;
+}
+
+.flexGap40 {
+  gap: 40px;
+}
+
+.cursorPointer {
+  cursor: pointer;
+}
