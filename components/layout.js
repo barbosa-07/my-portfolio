@@ -69,6 +69,7 @@ export default function Layout({ children, home }) {
           </Link>
         </div>
       )}
+      {/* <footer>Footer will be added here</footer> */}
     </div>
   );
 }
