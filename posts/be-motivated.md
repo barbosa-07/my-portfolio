@@ -1,5 +1,5 @@
 ---
-title: "How tech is imapcting the teens!!"
+title: "How tech is impacting the teens!!"
 date: "2022-06-01"
 ---
 
