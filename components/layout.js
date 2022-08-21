@@ -69,7 +69,13 @@ export default function Layout({ children, home }) {
           </Link>
         </div>
       )}
-      {/* <footer>Footer will be added here</footer> */}
+      <footer>
+        <p>
+          © {new Date().getFullYear()}, Built with
+          {` `}
+          <a href="https://nextjs.org">NextJs</a>
+        </p>
+      </footer>
     </div>
   );
 }
