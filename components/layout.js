@@ -49,8 +49,7 @@ export default function Layout({ children, home }) {
                   height={108}
                   width={108}
                   alt={name}
-                  layout="fill"
-                  style={{ objectFit: "cover" }}
+                  objectFit="cover"
                 />
               </a>
             </Link>
