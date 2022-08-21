@@ -4,6 +4,7 @@
   font-weight: 800;
   letter-spacing: -0.05rem;
   margin: 1rem 0;
+  color: #101338;
 }
 
 .headingXl {
@@ -12,17 +13,20 @@
   font-weight: 800;
   letter-spacing: -0.05rem;
   margin: 1rem 0;
+  color: #101338;
 }
 
 .headingLg {
   font-size: 1.5rem;
   line-height: 1.4;
   margin: 1rem 0;
+  color: #101338;
 }
 
 .headingMd {
   font-size: 1.2rem;
   line-height: 1.5;
+  color: #101338;
 }
 
 .borderCircle {
@@ -51,8 +55,8 @@
   color: #666;
 }
 
-.blue {
-  color: rgb(0, 119, 255);
+.orange {
+  color: rgb(255, 123, 0);
 }
 
 .bold600 {

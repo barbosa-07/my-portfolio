@@ -36,8 +36,10 @@ export default function Home({ allPostsData }) {
           <a href="https://verloop.io/">Verloop</a>
         </p>
         <p>
-          <em className={`${utilStyles.blue} ${utilStyles.bold600}`}>prev</em> -{" "}
-          <strong>Software Development Engineer</strong> at{" "}
+          <strong className={`${utilStyles.orange} ${utilStyles.bold600}`}>
+            Prev
+          </strong>{" "}
+          | <strong>Software Development Engineer</strong> at{" "}
           <a href="https://embibe.com/">Embibe</a>
         </p>
         <p>
